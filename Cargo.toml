@@ -1,0 +1,23 @@
+
+[package]
+name = "azure_assessment"
+version = "0.1.0"
+edition = "2021"
+description = "Azure Security Assessment Tool"
+keywords = ["macos", "linux"]
+categories = ["os"]
+authors = ["Kuzey Arda Bulut"]
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+
+
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+xlsxwriter = "0.6.0"
+obfstr = "0.4.1"
