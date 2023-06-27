@@ -43,6 +43,7 @@ The tool automatically scans your infrastructure so you don't need to do anythin
 
 ## Scan Result
 It shows the results of the scans in an excel file as below.
+
 ![image](https://github.com/kuzeyardabulut/azure-assessment/assets/54737933/7bdcf28d-b422-4a2b-9b19-af5b30c2a3f4)
 
 ## Customization
