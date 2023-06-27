@@ -41,6 +41,10 @@ To use this tool, you will need to provide your Azure account credentials. These
 
 The tool automatically scans your infrastructure so you don't need to do anything.
 
+## Scan Result
+It shows the results of the scans in an excel file as below.
+![image](https://github.com/kuzeyardabulut/azure-assessment/assets/54737933/7bdcf28d-b422-4a2b-9b19-af5b30c2a3f4)
+
 ## Customization
 You can customize the behavior of this tool by modifying the config.json file in the repository. This file allows you to add or change the rules for this project.
 
